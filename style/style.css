@@ -1,19 +1,29 @@
-.cards {
+    body {
+     display: flex;
+     flex-direction: column;
+}
+
+    header, footer {
  
-   min-height: 100vh;
+  height: 20vh ;
+ 
+}
+    main {
+ 
+   flex: 1;
    display: flex;
-   flex-wrap: wrap;
-   flex: 0 0 250px;
-       
  
 }
-.row {
+    nav, aside {
  
-   display: flex;
- 
-}
-.row_cell {
- 
-   flex: 1
+  width: 20vw;
  
 }
+    article {
+ 
+   flex: 1;
+ 
+}
+
+
+
