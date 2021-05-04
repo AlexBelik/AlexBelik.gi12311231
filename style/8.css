@@ -1,14 +1,11 @@
 .form {
- 
-  display: flex;
- 
+  display: flex
 }
-.form__field {
- 
+.form_field {
    flex: 1;
- 
+   margin:10px 0px 10px 0px;
 }
 .form_item{
-    background-color: #ffffff;
+    background-color: wheat;
+    margin:10px 0px 10px 0px;
 }
-

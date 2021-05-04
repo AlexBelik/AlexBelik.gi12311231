@@ -2,7 +2,7 @@ body {
  
    display: flex;
     flex-direction: column;
- 
+ background-color: khaki;
 }
 
 header,
@@ -10,18 +10,19 @@ header,
 footer {
  
   height: 20vh;
- 
+ background-color: yellow;
 }
 main{
     flex:1;
     display:flex;
+    background-color: bisque;
 }
 nav,
  
 aside {
  
   width: 20vw;
- 
+ background-color: lightskyblue;
 }
 article {
  

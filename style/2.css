@@ -1,13 +1,47 @@
-.row {
- 
-   display: flex;
- 
-}
 .row_cell {
- 
-   flex: 1;
- 
+   flex: 1
 }
+.row {
+   display: flex;
+}
+.row_cell--1 {
+    background-color: wheat;
+}
+.row_cell--2 {
+    background-color: lawngreen;
+}
+.row_cell--3 {
+    background-color: salmon;
+}
+.row_cell--4 {
+    background-color: lightgreen;
+}
+.row_cell--5 {
+    background-color: blueviolet;
+}
+.row_cell--6 {
+    background-color: window;
+}
+.row_cell--7 {
+    background-color: khaki;
+}
+.row_cell--8 {
+    background-color: lightgreen;
+}
+.row_cell--9 {
+    background-color: lightskyblue;
+}
+.row_cell--10 {
+    background-color: orange;
+}
+.row_cell--11 {
+    background-color: brown;
+}
+.row_cell--12 {
+    background-color: aquamarine;
+}
+
+
 
 
 

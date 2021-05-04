@@ -1,13 +1,14 @@
+body {
+  display: flex;
+}
+aside {
+   width: 20vw;
+   background-color: lavender;
+}
 main {
- 
-  height: calc(100vh - 40vh);
- 
+  flex: 1;
+  background-color: salmon;
 }
 
-body {
- 
-  display: flex;
- 
-}
 
 
