@@ -1,11 +1,14 @@
-.cards {
+.form {
  
-   min-height: 100vh;
-   display: flex;
-  flex-wrap: wrap;
-  flex: 0 0 250px;
+  display: flex;
+ 
 }
-
-
-
+.form__field {
+ 
+   flex: 1;
+ 
+}
+.form_item{
+    background-color: #ffffff;
+}
 

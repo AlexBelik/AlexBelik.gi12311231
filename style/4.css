@@ -1,11 +1,13 @@
-.cards {
+main {
  
-   min-height: 100vh;
-   display: flex;
-  flex-wrap: wrap;
-  flex: 0 0 250px;
+  height: calc(100vh - 40vh);
+ 
 }
 
-
+body {
+ 
+  display: flex;
+ 
+}
 
 
